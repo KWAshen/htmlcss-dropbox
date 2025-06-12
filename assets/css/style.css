@@ -1,6 +1,46 @@
-*{
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
+header {
+  font-family: sans-serif ;
+  width: 100%;
+  height: 50px;
+  margin-left: 0px;
+  background-color: aqua;
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.logo {
+  justify-content: center;
+}
+
+.header-wrapper {
+  height: 100%;
+  margin-left: 10px;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.primodiv {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.secondodiv {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.menuinizia {
+  padding: 8px;
+  background-color: blue;
+  color: white;
+}
