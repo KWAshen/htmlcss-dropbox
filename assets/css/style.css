@@ -66,3 +66,10 @@ h1 {
   width: 100%;
   height:3000px;
 }
+
+footer{
+  width: 100%;
+  height: 500px;
+  margin-left: 1px;
+  background-color: #000000;
+}
